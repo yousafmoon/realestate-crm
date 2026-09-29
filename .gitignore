@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
